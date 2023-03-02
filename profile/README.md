@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![alt text](https://github.com/verbeux-ai/.github/blob/063ea270c10db9b8fa90564cc5c49192c92b7fc1/images/Group%2011.png)
+![alt text](https://github.com/verbeux-ai/.github/blob/ca7079176b519200f4883e61fde2d05801752f92/images/Group%2011%20(1).png)
 
 </div>
 
