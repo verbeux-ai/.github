@@ -13,7 +13,7 @@ Somos uma plataforma de chatbot focada em melhorar a comunicação de negócios.
 ## Valores
 * **Sua palavra vale mais do que sua assinatura:** É claro que algumas coisas precisam ser formalizadas e assinadas, mas antes disso, acreditamos que o combinado vale muito mais.
 
-* **Trabalhe quando se sentir mais produtivo:** Não somos de cobrar horário. É claro que precisamos de um mínimo de rotina, pelo menos para reuniões, mas no geral, defina seu horário e trabalhe quando for mais produtivo.
+* **Trabalhe menos horas, mas produza mais:** Não somos de cobrar horário. É claro que precisamos de um mínimo de rotina, pelo menos para as reuniões, mas no geral, defina seu horário e trabalhe quando for mais produtivo.
 
 * **FALE! Se comunicar parece fácil, mas não é (e sabemos bem disso):** Ter uma boa comunicação vai além de falar o que está fazendo ou o problema que está tendo. Boa comunicação perpassa por: pensar na hora de colocar o nome de um arquivo, criar o nome de uma branch, descrever o que não estiver claro ou fazer perguntas com o máximo de informação possível, buscando ser claro.
 
@@ -23,5 +23,8 @@ Somos uma plataforma de chatbot focada em melhorar a comunicação de negócios.
 ## Visão
 🏗️👷🏾[Em construção]🪚⚙️
 
+  
+  
+  
 Lembre-se sempre de que:
 > # O certo é o certo. O errado é o cobrado!
